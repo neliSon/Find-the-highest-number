@@ -18,10 +18,7 @@ int main(int argc, const char * argv[]) {
         
         
         for(int i = 1; i < [numbers count]; i++) {
-            if(higherNumber >= numbers[i]) {
-                continue;
-               
-            }else{
+            if(higherNumber <= numbers[i]){
                 higherNumber = numbers[i];
             }
         }

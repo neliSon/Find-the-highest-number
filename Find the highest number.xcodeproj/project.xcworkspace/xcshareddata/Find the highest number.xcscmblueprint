@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6145030A84FC761273CC355DC428C28554469ED5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6145030A84FC761273CC355DC428C28554469ED5" : 0,
+    "5693877E5BA95CE2EB9488198215EC21F90AA840" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "58A2BAA6-908D-4365-B75F-96C20D7E9993",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6145030A84FC761273CC355DC428C28554469ED5" : "Find%20the%20highest%20number\/",
+    "5693877E5BA95CE2EB9488198215EC21F90AA840" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Find the highest number",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Find the highest number.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/neliSon\/assignments.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5693877E5BA95CE2EB9488198215EC21F90AA840"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/neliSon\/Find-the-highest-number.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6145030A84FC761273CC355DC428C28554469ED5"
+    }
+  ]
+}
